@@ -1,1 +1,69 @@
 /* Write your CSS here! */
+
+/* .column {
+    float: left;
+    width: 33.33%;
+} */
+
+.funParagraph {
+    color: green;
+    text-align: center;
+}
+
+#mainHeading {
+    color: red;
+    text-align: center;
+}
+
+body {
+background-color: rgb(184, 203, 182);
+margin: 8px;
+display: block;
+}
+
+p {
+    text-indent: 40px;
+    font-family: didot, serif;
+    font-size: larger;
+}
+
+h1 {
+    font-family: didot, serif;
+}
+
+h2 {
+    font-family: didot, serif;
+    text-align: center;
+}
+
+div {
+    font-family: didot, serif;
+    text-align: center;
+    font-size: larger;
+    padding: 25px;
+    height:50px;
+}
+
+img {
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#navBar {
+    text-align: center;
+    float: center;
+
+}
+a:link {
+    color:rgb(18, 20, 54);
+}
+a:visited {
+    color: rgb(164, 27, 150);
+}
+a:hover {
+    color: rgb(83, 121, 27);
+}
+
